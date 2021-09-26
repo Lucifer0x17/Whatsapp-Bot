@@ -1,0 +1,19 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon bot.js",
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "Lucifer",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^10.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
